@@ -1,0 +1,51 @@
+*{
+    margin:0;
+    padding:0;
+    font-size: 18px;
+}
+#container{
+  margin:10px auto;
+  border:2px solid #33CCFF;
+  background-color: white;
+  width:50%;
+  border-radius: 3px;
+  text-align: center;
+}
+.top{
+  background-color: #66CCFF;
+  margin: -1px;
+}
+.top p{
+  text-align: center;
+  padding:10px;
+  font-size: 20px;
+  font-weight: 600;
+}
+td{
+  width:5%;
+  border:2px solid red;
+  padding:5px;
+  border:0px solid black;
+}
+input{
+  width:80%;
+}
+.td{
+  border:0px solid white;
+}
+.mid input[type=submit]{
+  padding:2px;
+}
+.mid input[type=submit]:hover{
+  border-radius: 2px;
+    padding:2px;
+    background-color: #00CCFF;
+    border:1px solid #00CCFF;
+}
+.mid #trove{
+  width: 50px;
+  height: 5 0px;
+}
+a{
+  text-decoration: none;
+}
